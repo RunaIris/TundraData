@@ -3,6 +3,7 @@ title: "Trying some stuff in markdown"
 author: "Runa Magnusson"
 date: "January 26, 2018"
 output: pdf_document
+bibliography: bib.bib
 ---
 
 ```{r setup, include=FALSE}

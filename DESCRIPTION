@@ -8,3 +8,6 @@ Description: Climate Data import & analysis, field data processing, statistics, 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
