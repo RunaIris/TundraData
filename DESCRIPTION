@@ -1,0 +1,10 @@
+Package: TundraData
+Type: Package
+Title: Data Analysis for PhD project "Shrub decline instad of shrub expansion in Siberian lowland tundra?"
+Version: 0.1.0
+Author: Runa Magnusson
+Maintainer: The package maintainer <runa.magnuson@wur.nl>
+Description: Climate Data import & analysis, field data processing, statistics, etc
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
